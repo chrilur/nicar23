@@ -1,6 +1,8 @@
-###Filtrert Nicar###
+Filtrert Nicar
+==============
 
-##Sesjoner##
+##Sesjoner
+
 https://paldhous.github.io/NICAR/2023/
 
 https://nicar.r-journalism.com/2023/data_prep.html
