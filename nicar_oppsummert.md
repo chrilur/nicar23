@@ -1,34 +1,47 @@
 Filtrert Nicar
 ==============
 
-##Sesjoner
+Sted: Nashville, Tenessees
+Tid: 2.-5. mars 2023
 
-https://paldhous.github.io/NICAR/2023/
+## Hvorfor konferanser i store, fremmede land er verdt det
+1. Inspirasjon. Noen er alltid bedre enn deg.
+2. Gode metoder er grenseoverskridende.
+3. Du er oppdatert.
+4. Bygge nettverk.
 
-https://nicar.r-journalism.com/2023/data_prep.html
+### Men man bør være flere...
 
-bit.ly/nicar23tools
+## Du trenger ikke dra på Nicar for å lære av Nicar
 
+Alle som har sesjoner, pleier å lage svært gode [tip-sheets](https://www.ire.org/training/conferences/nicar-2023/nicar-2023-tipsheets/) som man kan bruke i ettertid.
+Og det finnes sesjoner om [gode tips og verktøy](https://ire-resources.s3.us-west-1.amazonaws.com/tipsheets/20230302-30004.pdf).
+[Journalists toolbox](https://www.journaliststoolbox.org/) er nyttig å vite om.
+
+Noen andre ting som Mike Reilley trakk frem:
 Distill.io - tracker oppdateringer
-
-Journalists’ toolbox
-
-
 AlternativeTo.net
-
-
 mapchecking.com
 
 
-Fuzzy matching
-@maxharlow
-Financial Times
+Sesjoner
+--------
 
-Jade Myanmar global witness
+## Kart og geodata i R
+Alle data til sesjonen [finnes her](https://paldhous.github.io/NICAR/2023/r-sf-mapping-geo-analysis.html).
 
-Jersey leak the Guardian
 
-github.com/maxharlow/csvmatch
+## Visualiser årsakssammenhenger på fem forskjellige måter
+Andrew Ba Tran, Washington Post
+[Han har snakket om kart i R i årevis](https://nicar.r-journalism.com/2023/data_prep.html).
+
+
+## Fuzzy matching
+@maxharlow, Financial Times
+
+Han har laget [et skript](github.com/maxharlow/csvmatch) som bruker metdoene til Levenshtein og Bilenko (maskinlæring) for å sammenligne to kolonner i to CSV-filer.
+Bruksområde: Sammenligne navne- eller adresselister der navnene kan være skrevet ulikt.
+[Her](bit.ly/nicar23-fuzzy) er Harlows Nicar-notater.
 
 pwd
 ls
@@ -110,3 +123,28 @@ Grist observerr
 tinyurl.com/NICAR23-Supercharge
 
 
+### The international money trail
+Sara Silver, Quinnipiac University, ssilver@qu.edu
+
+Når selskaper tar penger fra det offentlige, må de være transparente.
+
+IKEA
+Salg 40 mrd dollar
+220.000 ansatte i 52 land
+80-20-regelen: Du finner 80% av det du trenger på 20% av tiden.
+Bodde i Sveits
+Overførte formuen til en stiftelse, Stichting Ingka Foundation. -> "Further the advancement of interior design", støtter industriell design-program ved Lund universitet.
+Betaler for fire stipender. cirka 200.000 dollar
+
+Inter IKEA Systems B.V.
+Nederlandsk selskap.
+Interogo Foundation, Liechtenstein
+Video: Taaks Avoyd
+
+55 store amerikanske selskaper betalte ingen inntektsskatt 
+-> SEC filings 10K
+
+Afrika mister mer penger i skatteunndragelser enn de får i u-hjelp
+Uganda møtte 117 rike folk. Endte med at 78% betalte skatt, opp fra 13%.
+
+Gabriel Grego, gresk svindelselskap CIU
