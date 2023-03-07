@@ -1,7 +1,7 @@
 Filtrert Nicar
 ==============
 
-Sted: Nashville, Tenessees
+Sted: Nashville, Tennessee \n
 Tid: 2.-5. mars 2023
 
 ## Hvorfor konferanser i store, fremmede land er verdt det
@@ -10,7 +10,10 @@ Tid: 2.-5. mars 2023
 3. Du er oppdatert.
 4. Bygge nettverk.
 
-### Men man bør være flere...
+### Man bør være flere...
+Med 10+ parallelle sesjoner er det umulig å få med seg alt som er interessant på egen hånd.
+
+Men - Nicars viktigste hemmelighet:
 
 ## Du trenger ikke dra på Nicar for å lære av Nicar
 
@@ -18,10 +21,10 @@ Alle som har sesjoner, pleier å lage svært gode [tip-sheets](https://www.ire.o
 Og det finnes sesjoner om [gode tips og verktøy](https://ire-resources.s3.us-west-1.amazonaws.com/tipsheets/20230302-30004.pdf).
 [Journalists toolbox](https://www.journaliststoolbox.org/) er nyttig å vite om.
 
-Noen andre ting som Mike Reilley trakk frem:
-Distill.io - tracker oppdateringer
-AlternativeTo.net
-mapchecking.com
+Noen andre ting som tipsgeneral Mike Reilley trakk frem:
+[Track oppdateringer av sider](Distill.io)
+[Finn alternativ](AlternativeTo.net)
+[Sjekk størrelsen på folkemengder](mapchecking.com)
 
 
 Sesjoner
@@ -43,34 +46,20 @@ Han har laget [et skript](github.com/maxharlow/csvmatch) som bruker metdoene til
 Bruksområde: Sammenligne navne- eller adresselister der navnene kan være skrevet ulikt.
 [Her](bit.ly/nicar23-fuzzy) er Harlows Nicar-notater.
 
-pwd
-ls
-Levenshtein
+## pdfplumber
+Jeremy Singer-Vine har laget en [PDF-skraper](github.com/jsvibne/pdfplumber) i Python.
 
-Maskinlaering:
-Bilenko
-
-bit.ly/nicar23-fuzzy
-
-pdfplumber
-Jeremy Singer-Vine
-
-True vs image PDFs
-PDF 1993 Adobe
-Specification!
+PDF feirer 30 år i år - hurra!
 PDF er en sløkket tekstfil
 
-github.com/jsvibne/pdfplumber
+## Regular expressions
+[Tipssheet](jmye.rs/nicar-regex) fra Justin Myers 
 
-
-Regular expressions
-jmye.rs/nicar-regex
-
-Justin Myers
 @myersjustinc
 
+Du kan bl.a. bruke regex i søk og erstatt-felt i Chrome, i Sublime og andre editorer, m.m.
 
-Finding hidden and undocumented APIs
+## Finding hidden and undocumented APIs
 Leon Yin, The Markup
 Dhruv Mehrotra, Wired
 
