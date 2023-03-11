@@ -22,9 +22,9 @@ Og det finnes sesjoner om [gode tips og verktøy](https://ire-resources.s3.us-we
 [Journalists toolbox](https://www.journaliststoolbox.org/) er nyttig å vite om.
 
 Noen andre ting som tipsgeneral Mike Reilley trakk frem:
-[Track oppdateringer av sider](Distill.io)
-[Finn alternativ](AlternativeTo.net)
-[Sjekk størrelsen på folkemengder](mapchecking.com)
+- [Track oppdateringer av sider](Distill.io)
+- [Finn alternativ](AlternativeTo.net)
+- [Sjekk størrelsen på folkemengder](mapchecking.com)
 
 
 Sesjoner
@@ -82,7 +82,7 @@ Styrker:
 3: Mengde. Du kan hente mer info sammenlignet med headless browsers, Selenium, Puppeteer og Playwright
 
 YouTube’s Blocklist
-Inspct - network
+Inspect - network
 Fetch/XHR
 domain:
 copy as CURL bash
@@ -107,9 +107,9 @@ Små oljeprodusenter ville gå konk: Vår 2020, negativ pris på olje
 Orphan wells
 
 Forlatte brønner
-Grist observerr
+Grist observer
 
-tinyurl.com/NICAR23-Supercharge
+[Maskinlæring i små redaksjoner](tinyurl.com/NICAR23-Supercharge)
 
 
 ### The international money trail
@@ -117,23 +117,22 @@ Sara Silver, Quinnipiac University, ssilver@qu.edu
 
 Når selskaper tar penger fra det offentlige, må de være transparente.
 
-IKEA
-Salg 40 mrd dollar
-220.000 ansatte i 52 land
-80-20-regelen: Du finner 80% av det du trenger på 20% av tiden.
-Bodde i Sveits
-Overførte formuen til en stiftelse, Stichting Ingka Foundation. -> "Further the advancement of interior design", støtter industriell design-program ved Lund universitet.
-Betaler for fire stipender. cirka 200.000 dollar
+IKEA: 
+* Salg 40 mrd dollar
+* 220.000 ansatte i 52 land
+* 80-20-regelen: Du finner 80% av det du trenger på 20% av tiden.
+* Bodde i Sveits
+* Overførte formuen til en stiftelse, Stichting Ingka Foundation. -> "Further the advancement of interior design", støtter industriell design-program ved Lund universitet.
+* Betaler for fire stipender. cirka 200.000 dollar
 
-Inter IKEA Systems B.V.
-Nederlandsk selskap.
-Interogo Foundation, Liechtenstein
-Video: Taaks Avoyd
+* Inter IKEA Systems B.V. Nederlandsk selskap.
+* Interogo Foundation, Liechtenstein
+* Video: Taaks Avoyd
 
-55 store amerikanske selskaper betalte ingen inntektsskatt 
--> SEC filings 10K
+55 store amerikanske selskaper betalte ingen inntektsskatt -> SEC filings 10K
 
 Afrika mister mer penger i skatteunndragelser enn de får i u-hjelp
+
 Uganda møtte 117 rike folk. Endte med at 78% betalte skatt, opp fra 13%.
 
 Gabriel Grego, gresk svindelselskap CIU
