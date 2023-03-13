@@ -1,8 +1,13 @@
-Filtrert Nicar
+Nicar filtrert
 ==============
 
-Sted: Nashville, Tennessee \n
+Sted: Nashville, Tennessee
+
 Tid: 2.-5. mars 2023
+
+- National Institute for Computer Assisted Research (NICAR).
+- Verdens største konferanse for datastøttet journalistikk.
+- Cirka 1000 deltakere fra 8 land.
 
 ## Hvorfor konferanser i store, fremmede land er verdt det
 1. Inspirasjon. Noen er alltid bedre enn deg.
@@ -31,6 +36,7 @@ Sesjoner
 --------
 
 ## Kart og geodata i R
+
 Alle data til sesjonen [finnes her](https://paldhous.github.io/NICAR/2023/r-sf-mapping-geo-analysis.html).
 
 
@@ -53,7 +59,7 @@ PDF feirer 30 år i år - hurra!
 PDF er en sløkket tekstfil
 
 ## Regular expressions
-[Tipssheet](jmye.rs/nicar-regex) fra Justin Myers 
+[Tipssheet](http://jmye.rs/nicar-regex) fra Justin Myers 
 
 @myersjustinc
 
@@ -89,9 +95,9 @@ copy as CURL bash
 curlconverter.com
 https://curlconverter.com/
 
-Testet på Bergen kommune
+Testet på Bergen kommune. Med hell.
 
-Maskinlæring
+## Maskinlæring
 Tyler Dukes
 Narveena Sadasivam
 Clayton Aldern
@@ -101,7 +107,7 @@ Telle hvem som eier eiendommer
 Store eiendomsselskaper
 Hundrevis av LLCs
 
-Waves (wells?) of abandonment
+Wells of abandonment
 Små oljeprodusenter ville gå konk: Vår 2020, negativ pris på olje
 
 Orphan wells
@@ -112,7 +118,7 @@ Grist observer
 [Maskinlæring i små redaksjoner](tinyurl.com/NICAR23-Supercharge)
 
 
-### The international money trail
+## The international money trail
 Sara Silver, Quinnipiac University, ssilver@qu.edu
 
 Når selskaper tar penger fra det offentlige, må de være transparente.
