@@ -18,6 +18,8 @@ Tid: 2.-5. mars 2023
 ### Man bør være flere...
 Med 10+ parallelle sesjoner er det umulig å få med seg alt som er interessant på egen hånd.
 
+Best practice - å kombinere spesialsesjoner om din spesialkompetanse med sesjoner *du ikke visste du trengte*.
+
 Men - Nicars viktigste hemmelighet:
 
 ## Du trenger ikke dra på Nicar for å lære av Nicar
@@ -27,9 +29,9 @@ Og det finnes sesjoner om [gode tips og verktøy](https://ire-resources.s3.us-we
 [Journalists toolbox](https://www.journaliststoolbox.org/) er nyttig å vite om.
 
 Noen andre ting som tipsgeneral Mike Reilley trakk frem:
-- [Track oppdateringer av sider](Distill.io)
-- [Finn alternativ](AlternativeTo.net)
-- [Sjekk størrelsen på folkemengder](mapchecking.com)
+- [Track oppdateringer av sider](http://Distill.io)
+- [Finn alternativ](http://AlternativeTo.net)
+- [Sjekk størrelsen på folkemengder](http://mapchecking.com)
 
 
 Sesjoner
@@ -48,15 +50,15 @@ Andrew Ba Tran, Washington Post
 ## Fuzzy matching
 @maxharlow, Financial Times
 
-Han har laget [et skript](github.com/maxharlow/csvmatch) som bruker metdoene til Levenshtein og Bilenko (maskinlæring) for å sammenligne to kolonner i to CSV-filer.
+Han har laget [et skript](http://github.com/maxharlow/csvmatch) som bruker metdoene til Levenshtein og Bilenko (maskinlæring) for å sammenligne to kolonner i to CSV-filer.
 Bruksområde: Sammenligne navne- eller adresselister der navnene kan være skrevet ulikt.
-[Her](bit.ly/nicar23-fuzzy) er Harlows Nicar-notater.
+[Her](http://bit.ly/nicar23-fuzzy) er Harlows Nicar-notater.
 
 ## pdfplumber
-Jeremy Singer-Vine har laget en [PDF-skraper](github.com/jsvibne/pdfplumber) i Python.
+Jeremy Singer-Vine har laget en [PDF-skraper](http://github.com/jsvibne/pdfplumber) i Python.
 
 PDF feirer 30 år i år - hurra!
-PDF er en sløkket tekstfil
+*PDF er en sløkket tekstfil*
 
 ## Regular expressions
 [Tipssheet](http://jmye.rs/nicar-regex) fra Justin Myers 
