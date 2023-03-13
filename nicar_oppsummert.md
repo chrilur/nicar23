@@ -55,7 +55,7 @@ Bruksområde: Sammenligne navne- eller adresselister der navnene kan være skrev
 [Her](http://bit.ly/nicar23-fuzzy) er Harlows Nicar-notater.
 
 ## pdfplumber
-Jeremy Singer-Vine har laget en [PDF-skraper](http://github.com/jsvibne/pdfplumber) i Python.
+Jeremy Singer-Vine har laget en [PDF-skraper](https://github.com/jsvibne/pdfplumber) i Python.
 
 PDF feirer 30 år i år - hurra!
 *PDF er en sløkket tekstfil*
